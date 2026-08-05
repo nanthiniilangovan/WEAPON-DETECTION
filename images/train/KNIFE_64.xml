@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KNIFE</folder>
+	<filename>KNIFE_64.jpg</filename>
+	<path>C:\Users\god\Desktop\WEAPON_DETUCTION\KNIFE\KNIFE_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KNIFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>192</ymin>
+			<xmax>568</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

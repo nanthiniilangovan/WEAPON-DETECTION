@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GUN</folder>
+	<filename>GUN_76.jpg</filename>
+	<path>C:\Users\god\Desktop\WEAPON_DETUCTION\GUN\GUN_76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GUN</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>1</ymin>
+			<xmax>1300</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
